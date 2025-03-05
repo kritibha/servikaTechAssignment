@@ -17,7 +17,7 @@ This project demonstrates a simple microservices-based system using Java, Spring
 
 ### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/microservices-project.git
+git clone https://github.com/kritibha/servikaTechAssignment.git
 cd microservices-project
 
 #Build the projects
